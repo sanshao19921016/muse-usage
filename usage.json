@@ -1,10 +1,10 @@
 {
   "plan": "Free",
-  "used_percent": 50,
-  "remaining_percent": 50,
+  "used_percent": 52,
+  "remaining_percent": 48,
   "resets_at": "2026-11-19T14:53:00+08:00",
   "bonus_total": 1000000000,
   "bonus_used_percent": 0,
   "bonus_remaining": 1000000000,
-  "updated_at": "2026-11-16T15:16:13+08:00"
+  "updated_at": "2026-11-16T18:15:57+08:00"
 }
