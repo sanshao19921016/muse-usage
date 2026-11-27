@@ -1,1 +1,10 @@
-{"bonus_remaining":1000000000,"bonus_total":1000000000,"bonus_used_percent":0,"plan":"Free","remaining_percent":92,"resets_at":"2026-12-03T15:15:00+08:00","updated_at":"2026-11-27T18:16:01+08:00","used_percent":8}
+{
+  "bonus_remaining": 1000000000,
+  "bonus_total": 1000000000,
+  "bonus_used_percent": 0,
+  "plan": "Free",
+  "remaining_percent": 92,
+  "resets_at": "2026-12-03T15:15:00+08:00",
+  "updated_at": "2026-11-27T18:16:01+08:00",
+  "used_percent": 8
+}
